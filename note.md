@@ -1,7 +1,7 @@
 ### Stanford CS144
 * [CS144视频（b站）](https://www.bilibili.com/video/BV1wt41167iN?from=search&seid=12807244912122184980)
 * [CS144课程网站（包括Pdf、Lab）](https://cs144.github.io/)
-* [我的CS144 Lab笔记](https://github.com/huangrt01/CS-Notes/blob/master/Notes/Output/Computer-Networking-Lab-CS144-Stanford.md)
+* [Lab笔记](https://github.com/huangrt01/CS-Notes/blob/master/Notes/Output/Computer-Networking-Lab-CS144-Stanford.md)
 
 [toc]
 
